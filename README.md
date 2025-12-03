@@ -49,8 +49,8 @@
 ![sc4](https://github.com/user-attachments/assets/089202ae-2bf7-4cc3-baa8-94486233a569)
 
 
-### Name: Arunmozhi Varman T
-### Register Number: 212223230022
+### Name: Hema Sree S
+### Register Number: 212224040112
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
